@@ -11,8 +11,8 @@ def get_favorite_vegetable():
     where X is replaced with the user's favorite vegetable.
     """
     # write your code here.
-    # favorate_vegetbale = input("Please Enter your favorate vegetable: ")
-    # print("Interesting! I also love {}!".format(favorate_vegetbale))
+    favorate_vegetbale = input("Please Enter your favorate vegetable: ")
+    print("Interesting! I also love {}!".format(favorate_vegetbale))
     
 def get_favorite_number():
     """
@@ -21,8 +21,8 @@ def get_favorite_number():
     where X is replaced with the user's favorite number.
     """
     # write your code here.
-    # favorite_number=input("Please enter your favorite number: ")
-    # print("Interesting! I also love {}!".format(favorite_number))
+    favorite_number=input("Please enter your favorite number: ")
+    print("Interesting! I also love {}!".format(favorite_number))
 
 def get_name_and_zodiac_sign():
     """
